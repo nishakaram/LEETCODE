@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
 | [2235-add-two-integers](https://github.com/nishakaram/LEETCODE/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/nishakaram/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/nishakaram/LEETCODE/tree/master/0867-transpose-matrix) |
+| [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishakaram/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/nishakaram/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
