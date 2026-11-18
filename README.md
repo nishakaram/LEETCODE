@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
 | ------- |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/nishakaram/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
