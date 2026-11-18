@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/nishakaram/LEETCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nishakaram/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/nishakaram/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/nishakaram/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/nishakaram/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/nishakaram/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
