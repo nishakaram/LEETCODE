@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
