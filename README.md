@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishakaram/LEETCODE/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
 | [1323-maximum-69-number](https://github.com/nishakaram/LEETCODE/tree/master/1323-maximum-69-number) |
