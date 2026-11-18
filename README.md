@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/nishakaram/LEETCODE/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/nishakaram/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/nishakaram/LEETCODE/tree/master/0709-to-lower-case) |
+| [0784-letter-case-permutation](https://github.com/nishakaram/LEETCODE/tree/master/0784-letter-case-permutation) |
 | [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
 ## Newton's Method
 |  |
@@ -208,8 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/nishakaram/LEETCODE/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/nishakaram/LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/nishakaram/LEETCODE/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/nishakaram/LEETCODE/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
