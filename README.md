@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nishakaram/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nishakaram/LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/nishakaram/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
 | [2235-add-two-integers](https://github.com/nishakaram/LEETCODE/tree/master/2235-add-two-integers) |
 ## Matrix
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/nishakaram/LEETCODE/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/nishakaram/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/nishakaram/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
