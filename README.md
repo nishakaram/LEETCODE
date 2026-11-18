@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/nishakaram/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
+| [1137-n-th-tribonacci-number](https://github.com/nishakaram/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/nishakaram/LEETCODE/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/nishakaram/LEETCODE/tree/master/2235-add-two-integers) |
 ## Matrix
@@ -178,4 +179,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/nishakaram/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/nishakaram/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/nishakaram/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
