@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nishakaram/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nishakaram/LEETCODE/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
 | [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
 | [2235-add-two-integers](https://github.com/nishakaram/LEETCODE/tree/master/2235-add-two-integers) |
 ## Matrix
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nishakaram/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/nishakaram/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nishakaram/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/nishakaram/LEETCODE/tree/master/0709-to-lower-case) |
 | [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
