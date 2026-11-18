@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishakaram/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nishakaram/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishakaram/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nishakaram/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/nishakaram/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/nishakaram/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishakaram/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/nishakaram/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/nishakaram/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
