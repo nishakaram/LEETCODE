@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/nishakaram/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/nishakaram/LEETCODE/tree/master/1323-maximum-69-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/nishakaram/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/nishakaram/LEETCODE/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nishakaram/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/nishakaram/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1041-robot-bounded-in-circle](https://github.com/nishakaram/LEETCODE/tree/master/1041-robot-bounded-in-circle) |
+| [1688-count-of-matches-in-tournament](https://github.com/nishakaram/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 ## Two Pointers
 |  |
 | ------- |
