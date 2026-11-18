@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/nishakaram/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/nishakaram/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/nishakaram/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/nishakaram/LEETCODE/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/nishakaram/LEETCODE/tree/master/0784-letter-case-permutation) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/nishakaram/LEETCODE/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
