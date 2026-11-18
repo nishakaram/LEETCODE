@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nishakaram/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nishakaram/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishakaram/LEETCODE/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
 | [1323-maximum-69-number](https://github.com/nishakaram/LEETCODE/tree/master/1323-maximum-69-number) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/nishakaram/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/nishakaram/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/nishakaram/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
