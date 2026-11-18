@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishakaram/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Counting
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/nishakaram/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishakaram/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishakaram/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nishakaram/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -296,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nishakaram/LEETCODE/tree/master/0148-sort-list) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
