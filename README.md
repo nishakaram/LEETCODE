@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishakaram/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nishakaram/LEETCODE/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/nishakaram/LEETCODE/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/nishakaram/LEETCODE/tree/master/0657-robot-return-to-origin) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nishakaram/LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nishakaram/LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nishakaram/LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
