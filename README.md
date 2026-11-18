@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nishakaram/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/nishakaram/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/nishakaram/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1710-maximum-units-on-a-truck](https://github.com/nishakaram/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/nishakaram/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
