@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nishakaram/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/nishakaram/LEETCODE/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/nishakaram/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nishakaram/LEETCODE/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nishakaram/LEETCODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
