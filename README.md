@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishakaram/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/nishakaram/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nishakaram/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nishakaram/LEETCODE/tree/master/0169-majority-element) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishakaram/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishakaram/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/nishakaram/LEETCODE/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
@@ -348,10 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishakaram/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/nishakaram/LEETCODE/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishakaram/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/nishakaram/LEETCODE/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/nishakaram/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Shortest Path
@@ -407,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishakaram/LEETCODE/tree/master/0493-reverse-pairs) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishakaram/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
