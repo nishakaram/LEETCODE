@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/nishakaram/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nishakaram/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/nishakaram/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nishakaram/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/nishakaram/LEETCODE/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/nishakaram/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nishakaram/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishakaram/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/nishakaram/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nishakaram/LEETCODE/tree/master/1631-path-with-minimum-effort) |
