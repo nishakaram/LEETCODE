@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nishakaram/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0312-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nishakaram/LEETCODE/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nishakaram/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0312-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
