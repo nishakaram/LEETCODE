@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0685-redundant-connection-ii](https://github.com/nishakaram/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/nishakaram/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0685-redundant-connection-ii](https://github.com/nishakaram/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/nishakaram/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/nishakaram/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0685-redundant-connection-ii](https://github.com/nishakaram/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/nishakaram/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nishakaram/LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nishakaram/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishakaram/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0685-redundant-connection-ii](https://github.com/nishakaram/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishakaram/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
