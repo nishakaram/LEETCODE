@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishakaram/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/nishakaram/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/nishakaram/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/nishakaram/LEETCODE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nishakaram/LEETCODE/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nishakaram/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/nishakaram/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
