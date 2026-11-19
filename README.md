@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nishakaram/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nishakaram/LEETCODE/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/nishakaram/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/nishakaram/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nishakaram/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nishakaram/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nishakaram/LEETCODE/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/nishakaram/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/nishakaram/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishakaram/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nishakaram/LEETCODE/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/nishakaram/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nishakaram/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nishakaram/LEETCODE/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/nishakaram/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
@@ -452,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/nishakaram/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nishakaram/LEETCODE/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nishakaram/LEETCODE/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
