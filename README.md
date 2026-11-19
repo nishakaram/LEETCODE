@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nishakaram/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/nishakaram/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nishakaram/LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/nishakaram/LEETCODE/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/nishakaram/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishakaram/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/nishakaram/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1137-n-th-tribonacci-number](https://github.com/nishakaram/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nishakaram/LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 ## Memoization
 |  |
 | ------- |
