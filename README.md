@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nishakaram/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/nishakaram/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/nishakaram/LEETCODE/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/nishakaram/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishakaram/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/nishakaram/LEETCODE/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
