@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishakaram/LEETCODE/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nishakaram/LEETCODE/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/nishakaram/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishakaram/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/nishakaram/LEETCODE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nishakaram/LEETCODE/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nishakaram/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nishakaram/LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nishakaram/LEETCODE/tree/master/0207-course-schedule) |
@@ -440,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/nishakaram/LEETCODE/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
