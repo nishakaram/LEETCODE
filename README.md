@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nishakaram/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nishakaram/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishakaram/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nishakaram/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nishakaram/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishakaram/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/nishakaram/LEETCODE/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nishakaram/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nishakaram/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishakaram/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/nishakaram/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nishakaram/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/nishakaram/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -366,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nishakaram/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
