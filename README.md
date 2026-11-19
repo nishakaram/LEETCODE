@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishakaram/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/nishakaram/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishakaram/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nishakaram/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishakaram/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0993-cousins-in-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/nishakaram/LEETCODE/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishakaram/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nishakaram/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nishakaram/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishakaram/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/nishakaram/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishakaram/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishakaram/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nishakaram/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishakaram/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Quickselect
 |  |
@@ -341,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nishakaram/LEETCODE/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/nishakaram/LEETCODE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
