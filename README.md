@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishakaram/LEETCODE/tree/master/0001-two-sum) |
+| [0126-word-ladder-ii](https://github.com/nishakaram/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nishakaram/LEETCODE/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/nishakaram/LEETCODE/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishakaram/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/nishakaram/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/nishakaram/LEETCODE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishakaram/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nishakaram/LEETCODE/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/nishakaram/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nishakaram/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nishakaram/LEETCODE/tree/master/0133-clone-graph) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/nishakaram/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/nishakaram/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/nishakaram/LEETCODE/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/nishakaram/LEETCODE/tree/master/0784-letter-case-permutation) |
@@ -446,5 +450,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/nishakaram/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishakaram/LEETCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
