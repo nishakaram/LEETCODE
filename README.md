@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nishakaram/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/nishakaram/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nishakaram/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/nishakaram/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/nishakaram/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nishakaram/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nishakaram/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/nishakaram/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nishakaram/LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/nishakaram/LEETCODE/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishakaram/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nishakaram/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## String
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nishakaram/LEETCODE/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/nishakaram/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nishakaram/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/nishakaram/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishakaram/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nishakaram/LEETCODE/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nishakaram/LEETCODE/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishakaram/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
